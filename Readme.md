@@ -13,8 +13,6 @@ npm install lgcord.js
 ```js
 const { Client, INTENTS } = require("lgcord.js");
 
-const { Client, INTENTS } = require("lgcord.js");
-
 const client = new Client([
   INTENTS.GUILDS,
   INTENTS.GUILD_MESSAGES,
