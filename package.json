@@ -1,0 +1,30 @@
+{
+  "name": "lgcord-bot",
+  "version": "1.0.0",
+  "description": "An discord bot (example) coded in new API wrapper.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ItsZaynMalik/lgcord-Bot.git"
+  },
+  "keywords": [
+    "discordbot",
+    "api-wrapper",
+    "discord",
+    "javascript",
+    "discordjs",
+    "discord-api"
+  ],
+  "author": "Zayn",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ItsZaynMalik/lgcord-Bot/issues"
+  },
+  "homepage": "https://github.com/ItsZaynMalik/lgcord-Bot#readme",
+  "dependencies": {
+    "lgcord.js": "^0.6.3"
+  }
+}
