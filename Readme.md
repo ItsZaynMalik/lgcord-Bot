@@ -1,18 +1,3 @@
-<div align="center">
-  <p> 
-    <a href="https://discord.gg/cYJD2Rkb2n" title="Join our Discord Server"><img alt="Built with Love" src="https://forthebadge.com/images/badges/built-with-love.svg"></a>
-    <a href="https://discord.gg/cYJD2Rkb2n" title="Join our Discord Server"><img alt="Made with Javascript" src="https://forthebadge.com/images/badges/made-with-javascript.svg"></a>
-  </p>
-  <p>
-    <a href="https://www.npmjs.com/package/lgcord.js"><img src="https://img.shields.io/npm/v/remote-map-cache.svg?maxAge=3600" alt="NPM version" /></a>
-    <a href="https://www.npmjs.com/package/lgcord.js"><img src="https://img.shields.io/npm/dt/lgcord.js.svg?maxAge=3600" alt="NPM downloads" /></a>
-    <a href="https://www.patreon.com/dhananjayme"><img src="https://img.shields.io/badge/donate-patreon-F96854.svg" alt="Patreon" /></a>
-  </p>
-  <p>
-    <a href="https://nodei.co/npm/lgcord.js/"><img src="https://nodei.co/npm/lgcord.js.png?downloads=true&stars=true" alt="npm installnfo" /></a>
-  </p>
-</div>
-
 <h1 align="center">LGcord.Js</h1>
 
 lgcord.js is a simple library for interacting with the Discord API. It is written in TypeScript and is designed to be easy to use and easy to understand.
