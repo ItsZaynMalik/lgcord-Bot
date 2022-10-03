@@ -19,7 +19,7 @@ client.config = require('./config.json')
 
 client.on("messageCreate", message => {
     let prefix = client.config.prefix // Getting the prefix from the config file
-    if (message.content.startsWith(prefix + "ping")) { // If the message starts with the prefix + ping
+    if (message.content(prefix + "ping") { // If the message starts with the prefix + ping
         message.reply(`Pong!`) // Replying to the message
     }
     if (message.content.startsWith(prefix + "embed")) { // If the message starts with the prefix + embed
