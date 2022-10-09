@@ -16,7 +16,7 @@
 
 <h1 align="center">LGcord.Js</h1>
 
-<img src="https://cdn.discordapp.com/attachments/972146644067971153/1027552655112945724/1665058019810.png" size="30%">
+<img src="https://cdn.discordapp.com/attachments/929275625934581820/1028576044162228264/unknown.png" size="30%">
 
 lgcord.js is a simple library for interacting with the Discord API. It is written in TypeScript and is designed to be easy to use and easy to understand.
 
