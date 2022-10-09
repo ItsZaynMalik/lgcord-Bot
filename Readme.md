@@ -6,7 +6,6 @@
   <p>
     <a href="https://www.npmjs.com/package/lgcord.js"><img src="https://img.shields.io/npm/v/remote-map-cache.svg?maxAge=3600" alt="NPM version" /></a>
     <a href="https://www.npmjs.com/package/lgcord.js"><img src="https://img.shields.io/npm/dt/lgcord.js.svg?maxAge=3600" alt="NPM downloads" /></a>
-    <a href="https://www.patreon.com/dhananjayme"><img src="https://img.shields.io/badge/donate-patreon-F96854.svg" alt="Patreon" /></a>
   </p>
   <p>
     <a href="https://nodei.co/npm/lgcord.js/"><img src="https://nodei.co/npm/lgcord.js.png?downloads=true&stars=true" alt="npm installnfo" /></a>
