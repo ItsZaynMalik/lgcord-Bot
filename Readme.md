@@ -4,7 +4,7 @@
     <a href="https://discord.gg/cYJD2Rkb2n" title="Join our Discord Server"><img alt="Made with Javascript" src="https://forthebadge.com/images/badges/made-with-javascript.svg"></a>
   </p>
   <p>
-    <a href="https://www.npmjs.com/package/lgcord.js"><img src="https://img.shields.io/npm/v/remote-map-cache.svg?maxAge=3600" alt="NPM version" /></a>
+    <a href="https://www.npmjs.com/package/lgcord.js"><img src="https://img.shields.io/npm/v/lgcord.js.svg?maxAge=3600" alt="NPM version" /></a>
     <a href="https://www.npmjs.com/package/lgcord.js"><img src="https://img.shields.io/npm/dt/lgcord.js.svg?maxAge=3600" alt="NPM downloads" /></a>
     <a href="https://www.patreon.com/dhananjayme"><img src="https://img.shields.io/badge/donate-patreon-F96854.svg" alt="Patreon" /></a>
   </p>
